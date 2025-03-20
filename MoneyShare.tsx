@@ -12,7 +12,7 @@ const MoneyShare = () => {
 
   //ฟังก์ชันคํานวณ
   const calMoneyShare = () => {
-    //Validate
+    //Validate UI
     if(money == ''){
       alert('กรุณาป้อนจํานวนเงิน')
     }
